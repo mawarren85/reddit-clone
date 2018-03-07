@@ -2,15 +2,15 @@
 Unfamiliar environment project recreating the Reddit website using Angular.  
 
 # Objectives
--Create an Angular application that allows users to CRUD data from a server.
--Using provided express routes and postgres database, create all necessary components and services to make a functioning Angular application.
+- Create an Angular application that allows users to CRUD data from a server.
+- Using provided express routes and postgres database, create all necessary components and services to make a functioning Angular application.
 
 # Screenshots of working app
-![alt tag](finished-images/Screen Shot 2018-03-06 at 9.41.58 PM.png)
-![alt tag](finished-images/Screen Shot 2018-03-06 at 9.46.48 PM.png)
-![alt tag](finished-images/Screen Shot 2018-03-06 at 9.48.42 PM.png)
-![alt tag](finished-images/Screen Shot 2018-03-06 at 9.49.51 PM.png)
-![alt tag](finished-images/Screen Shot 2018-03-06 at 9.50.16 PM.png)
+![alt tag](finished-images/website.png)
+![alt tag](finished-images/new-cat-post.png)
+![alt tag](finished-images/website-with-new-post.png)
+![alt tag](finished-images/comment.png)
+![alt tag](finished-images/edit-post.png)
 
 
 
